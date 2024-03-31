@@ -1,0 +1,5 @@
+
+
+
+down:
+	@docker compose down
